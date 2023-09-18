@@ -13,7 +13,7 @@ To run, simply:
 
 - [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo (take note where you are cloning it to on your local system!)
 - you can clone via github desktop, or via terminal command e.g. `C:\users\myname\shecodesstuff\ git clone git@github.com:alikillen/shecodes-crowdfunding-navbar-example.git`
-- navigate inside the cloned repo folder in your terminal `cd shecodes-crowdfunding-navbar-example.git`
+- navigate inside the cloned repo folder in your terminal `cd shecodes-crowdfunding-navbar-example`
 - run `npm run dev`
 - open the site on your browser localhost at the suggested port.
 
