@@ -17,10 +17,10 @@ To run, simply:
 - run `npm run dev`
 - open the site on your browser localhost at the suggested port.
 
-![Desktop]("./../src/assets/desktop.png")
+![Desktop](src\assets\desktop.png)
 
-![Desktop Links]("./../src/assets/desktoplinks.png")
+![Desktop Links](src\assets\desktoplinks.png)
 
-![Mobile]("./../src/assets/mobile.png")
+![Mobile](src\assets\mobile.png)
 
-![Mobile Links]("./../src/assets/mobilelinks.png")
+![Mobile Links](src\assets\mobilelinks.png)
